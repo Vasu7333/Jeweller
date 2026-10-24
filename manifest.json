@@ -1,0 +1,20 @@
+{
+"name": "Jeweller",
+  "short_name": "Jeweller",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8efae4",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczPfKFGZso1XMFF56qD2KYkjkYhMdbSiybynh-8uUJkdBeeRSVnWWc3z3O5j9VAJe_j4cFdFvNmv9E3wOR7HC9eY9JN6z82hHIF8jOP-8DuMijdj7sY=s192-p-k",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczNtSL9txLxqazW2bM_vnCS8uj2TDgYPQUbNB-uhGZnytVFCB9tKjSEI4rss0wZluKqc1ERAUNTJvdY58EGyhGEfohEPIs4L5gZ6aUzNjDJk0ohootk=w2400",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
