@@ -1,5 +1,5 @@
 {
-"name": "BABA GARMENTS",
+  "name": "BABA GARMENTS",
   "short_name": "BABA GARMENTS",
   "start_url": "/",
   "display": "standalone",
@@ -7,14 +7,16 @@
   "theme_color": "#2196f3",
   "icons": [
     {
-      "src": "https://lh3.googleusercontent.com/pw/AP1GczPuN-86bsLHTGQlqut90OdNRSGHuScfMshByo0jlrsDyMSQXkfahcBsR0VbJBG9FPJU_l9OqXN-T5WrIbRW0TAgkAxE9ZQRGn7-7KYmRn-BXzbehTCBlhxmzZvqFwyvTbl0HO5zUIIeja6SJqcWWIDs=w192-h192-s-no-gm",
+      "src": "https://raw.githubusercontent.com/Vasu7333/Jeweller/main/garments/garments.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
-      "src": "https://lh3.googleusercontent.com/pw/AP1GczMWQfuLqVVHkG9u6C14cRhibsOBwHgXt1-blIX3nkZZV80G1V4SafWQmZS1zHR_SrC34bJB4OWxF4IYzGLG64b2oBK4o0a3VW40OCrX4IdZujxkX5M3IQ3-S_XUgx-w9Xrsk9DdMMAT2F7i6iVanx0g=w512-h512-s-no-gm",
+      "src": "https://lh3.googleusercontent.com/pw/AP1GczMWQfuLqVVHkG9u6C14cRhibsOBwHgXt1-blIX3nkZZV80G1V4SafWQmZS1zHR_SrC34bJB4OWxF4IYzGLG64b2oBK4o0a3VW40OCrX4IdZujxkX5M3IQ3-S_XUgx-w9Xrsk9DdMMAT2F7i6iVanx0g=s0",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     }
   ]
 }
